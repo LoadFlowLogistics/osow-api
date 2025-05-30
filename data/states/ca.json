@@ -1,0 +1,13 @@
+{
+  "state": "California",
+  "legal_permit_rules": {
+    "width": { "legal_limit": "8 ft 6 in", "citation": "CA VC 35100" },
+    "height": { "legal_limit": "14 ft", "citation": "CA VC 35250" }
+  },
+  "permit_types": ["Single Trip", "Annual", "Superload"],
+  "escort_requirements": {
+    "width": "> 12 ft requires CHP escort",
+    "height": "> 17 ft requires survey"
+  }
+}
+

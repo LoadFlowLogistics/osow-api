@@ -1,0 +1,12 @@
+{
+  "state": "Texas",
+  "legal_permit_rules": {
+    "width": { "legal_limit": "8 ft 6 in", "citation": "TxDOT 43.50" },
+    "height": { "legal_limit": "14 ft", "citation": "TxDOT 43.52" }
+  },
+  "permit_types": ["Single Trip", "Annual", "Superload"],
+  "escort_requirements": {
+    "width": "> 12 ft requires 1 front escort",
+    "length": "> 110 ft requires rear escort"
+  }
+}
